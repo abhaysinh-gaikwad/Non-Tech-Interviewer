@@ -43,7 +43,7 @@ export function DashboardSidebar() {
   const SidebarContent = () => (
     <div className="flex h-full flex-col">
       <div className="px-4 py-6">
-        <Link href="/dashboard" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-2">
           <span className="text-xl font-bold">Non-Tech-Interviewer</span>
         </Link>
       </div>
@@ -77,7 +77,7 @@ export function DashboardSidebar() {
             <p className="text-xs text-muted-foreground truncate">john.doe@example.com</p>
           </div>
           <Button variant="ghost" size="icon" asChild>
-            <Link href="/logout">
+            <Link href="/">
               <LogOut className="h-4 w-4" />
               <span className="sr-only">Log out</span>
             </Link>
