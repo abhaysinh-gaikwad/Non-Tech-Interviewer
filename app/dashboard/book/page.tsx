@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import { BookingForm } from "@/components/dashboard/booking-form"
 
 export const metadata: Metadata = {
-  title: "Book Interview - Non-Tech-Interviewer",
+  title: "Book Interview - Non-Tech-Coder",
   description: "Book your next practice interview session",
 }
 

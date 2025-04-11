@@ -5,7 +5,7 @@ import { Calendar, Video, BarChart3 } from "lucide-react"
 import Link from "next/link"
 
 export const metadata: Metadata = {
-  title: "Dashboard - Non-Tech-Interviewer",
+  title: "Dashboard - Non-Tech-Coder",
   description: "Your interview practice dashboard",
 }
 

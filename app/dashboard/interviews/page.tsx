@@ -5,7 +5,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { InterviewsList } from "@/components/dashboard/interviews-list"
 
 export const metadata: Metadata = {
-  title: "My Interviews - Non-Tech-Interviewer",
+  title: "My Interviews - Non-Tech-Coder",
   description: "View your upcoming and past interviews",
 }
 

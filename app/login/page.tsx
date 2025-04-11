@@ -3,8 +3,8 @@ import type { Metadata } from "next"
 import { LoginForm } from "@/components/login-form"
 
 export const metadata: Metadata = {
-  title: "Login - Non-Tech-Interviewer",
-  description: "Login to your Non-Tech-Interviewer account.",
+  title: "Login - Non-Tech-Coder",
+  description: "Login to your Non-Tech-Coder account.",
 }
 
 export default function LoginPage() {
@@ -13,7 +13,7 @@ export default function LoginPage() {
       <div className="relative hidden h-full flex-col bg-muted p-10 text-white lg:flex dark:border-r">
         <div className="absolute inset-0 bg-gradient-to-br from-primary to-secondary" />
         <div className="relative z-20 flex items-center text-lg font-medium">
-          <Link href="/">Non-Tech-Interviewer</Link>
+          <Link href="/">Non-Tech-Coder</Link>
         </div>
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">

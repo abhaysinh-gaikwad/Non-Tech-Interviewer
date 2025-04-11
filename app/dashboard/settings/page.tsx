@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import { ProfileSettings } from "@/components/dashboard/profile-settings"
 
 export const metadata: Metadata = {
-  title: "Settings - Non-Tech-Interviewer",
+  title: "Settings - Non-Tech-Coder",
   description: "Manage your account settings and preferences",
 }
 

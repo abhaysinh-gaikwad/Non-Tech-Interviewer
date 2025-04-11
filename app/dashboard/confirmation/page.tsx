@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 
 export const metadata: Metadata = {
-  title: "Booking Confirmed - Non-Tech-Interviewer",
+  title: "Booking Confirmed - Non-Tech-Coder",
   description: "Your interview booking has been confirmed",
 }
 

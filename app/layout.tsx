@@ -17,7 +17,7 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Non-Tech-Interviewer - Master Interviews with AI-Powered Feedback",
+  title: "Non-Tech-Coder - Master Interviews with AI-Powered Feedback",
   description: "Practice technical interviews with AI and get personalized feedback to improve your skills.",
     generator: 'v0.dev'
 }

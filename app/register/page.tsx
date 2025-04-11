@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import { RegistrationForm } from "@/components/registration-form"
 
 export const metadata: Metadata = {
-  title: "Register - Non-Tech-Interviewer",
+  title: "Register - Non-Tech-Coder",
   description: "Create an account to start practicing interviews with AI feedback.",
 }
 
@@ -13,7 +13,7 @@ export default function RegisterPage() {
       <div className="relative hidden h-full flex-col bg-muted p-10 text-white lg:flex dark:border-r">
         <div className="absolute inset-0 bg-gradient-to-br from-primary to-secondary" />
         <div className="relative z-20 flex items-center text-lg font-medium">
-          <Link href="/">Non-Tech-Interviewer</Link>
+          <Link href="/">Non-Tech-Coder</Link>
         </div>
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">

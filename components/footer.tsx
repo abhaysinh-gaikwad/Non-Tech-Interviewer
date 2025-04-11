@@ -52,7 +52,7 @@ export function Footer() {
           viewport={{ once: true }}
         >
           <motion.div variants={item}>
-            <h3 className="text-lg font-bold mb-4">No Tech Interviewer</h3>
+            <h3 className="text-lg font-bold mb-4">Non Tech Coder</h3>
             <p className="text-primary-foreground/80">
               Master interviews with AI-powered feedback and improve your skills to land your dream job.
             </p>
@@ -168,7 +168,7 @@ export function Footer() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.8 }}
         >
-          <p>&copy; {new Date().getFullYear()} No Tech Interviewer. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Non Tech Coder. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>

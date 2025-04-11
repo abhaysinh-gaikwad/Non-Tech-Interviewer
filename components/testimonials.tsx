@@ -23,7 +23,7 @@ const testimonials = [
     name: "Rahul Patel",
     role: "Frontend Developer at Amazon",
     content:
-      "I was nervous about technical interviews, but practicing with No Tech Interviewer boosted my confidence. The detailed feedback on my communication skills was invaluable.",
+      "I was nervous about technical interviews, but practicing with Non Tech Coder boosted my confidence. The detailed feedback on my communication skills was invaluable.",
     rating: 5,
     image: "/placeholder.svg?height=80&width=80",
     initials: "RP",

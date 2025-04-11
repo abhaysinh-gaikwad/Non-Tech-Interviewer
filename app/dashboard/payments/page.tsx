@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { Download, Plus } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Payment History - Non-Tech-Interviewer",
+  title: "Payment History - Non-Tech-Coder",
   description: "View your payment history and manage credits",
 }
 

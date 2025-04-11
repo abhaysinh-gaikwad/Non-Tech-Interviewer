@@ -7,7 +7,7 @@ import { ArrowLeft, Download, Lock } from "lucide-react"
 import { PaymentModal } from "@/components/dashboard/payment-modal"
 
 export const metadata: Metadata = {
-  title: "Interview Feedback - Non-Tech-Interviewer",
+  title: "Interview Feedback - Non-Tech-Coder",
   description: "View detailed feedback from your interview",
 }
 
